@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snow Droid</string>
+    <string name="main_title">Snow Droid - Main</string>
+    <string name="users">Users</string>
+    <string name="locations">Locations</string>
+    <string name="pits">Pits</string>
+    <string name="occurences">Occurences</string>
+    <string name="add_pit">Add Pit</string>
+    <string name="add_occurence">Add Occurence</string>
+    <string name="version">Version</string>
+    <string name="build">Build</string>
+    <string name="title_activity_location">LocationActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

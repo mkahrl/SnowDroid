@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+    android:paddingLeft="28dp"
+    android:weightSum="1">
+
+    <TextView android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:text="@string/users"
+	         android:textSize="32dp"
+             android:textColor="#fff"
+             android:layout_marginLeft="4dp"/>
+
+	 <Spinner  android:id="@+id/users"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+                
+     <TextView android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:text="@string/locations"
+	         android:textSize="32dp"
+             android:textColor="#fff"
+             android:layout_marginLeft="4dp"/>
+	 <Spinner  android:id="@+id/locations"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+      
+     <LinearLayout
+		android:orientation="horizontal" 
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+     </LinearLayout>
+
+    <Button
+android:id="@+id/add_pit_button"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textSize="28dp"
+android:layout_margin="10dp"
+android:text="@string/add_pit"
+android:textColor="#fff" />
+
+    <Button
+       android:id="@+id/add_occ_button"
+       android:layout_width="wrap_content"
+       android:textSize="28dp"
+       android:layout_height="wrap_content"
+       android:layout_margin="10dp"
+       android:text="@string/add_occurence"
+       android:textColor="#fff"/>
+</LinearLayout><!-- From: file:/Users/markkahrl/Desktop/SnowDroid-project/app/src/main/res/layout/main.xml -->

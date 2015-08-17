@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/markkahrl/Desktop/SnowDroid-project/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_occurence">Add Occurence</string>
+    <string name="add_pit">Add Pit</string>
+    <string name="app_name">Snow Droid</string>
+    <string name="build">Build</string>
+    <string name="locations">Locations</string>
+    <string name="main_title">Snow Droid - Main</string>
+    <string name="occurences">Occurences</string>
+    <string name="pits">Pits</string>
+    <string name="users">Users</string>
+    <string name="version">Version</string>
+</resources>
